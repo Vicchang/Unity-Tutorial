@@ -1,1 +1,5 @@
 # Unity Toturial
+---
+* ## GPU instancing (instanced rendering)
+  Along with Flyweight pattern, in order to create thosands of same object. We seperate the model and the differnt attribute so as to fullfil the goal, "use one model to render all of these instance".
+
